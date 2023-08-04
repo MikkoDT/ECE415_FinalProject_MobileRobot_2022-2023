@@ -1,6 +1,9 @@
 # ECE415_FinalProject_MobileRobot_2022-2023
  These are my final projects for my students in ECE415(2022-2023).
 
+
+![MX3305_Task1](https://github.com/MikkoDT/ECE415_FinalProject_MobileRobot_2022-2023/assets/93197249/0ac22d96-9051-4eee-82b3-cf2dedeeaa63)
+
 Project Description
 As an experienced educator, I taught Mechatronics Engineering students in the Philippines about mechanical manipulators and mobile robots. The project focused on imparting practical knowledge in the cutting-edge field of mechatronics.
 
