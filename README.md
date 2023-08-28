@@ -1,5 +1,5 @@
 # ECE415_FinalProject_MobileRobot_2022-2023
- These are my final projects for my students in ECE415(2022-2023).
+ Final projects of my students in ECE415(2022-2023).
 
 
 ![MX3305_Task1](https://github.com/MikkoDT/ECE415_FinalProject_MobileRobot_2022-2023/assets/93197249/0ac22d96-9051-4eee-82b3-cf2dedeeaa63)
